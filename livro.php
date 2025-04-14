@@ -8,8 +8,8 @@ private $livros = [
     ['titulo' => 'Diário de um Banana', 'autor' => 'Jeff Kinney', 'ano' => 2007],
     ['titulo' => 'o ratinho o morango vermelho maduro e o grande urso esfomeado', 'autor' => 'Audrey Wood', 'ano' => 2002],
     ['titulo' => 'AS AVENTURAS DO CAPITÃO CUECA - EM CORES!', 'autor' => 'Dav Pilkey', 'ano' => 2017],
-    ['titulo' => 'AS AVENTURAS DO CAPITÃO CUECA - EM CORES!', 'autor' => 'Dav Pilkey', 'ano' => 2017],
-    ['titulo' => 'AS AVENTURAS DO CAPITÃO CUECA - EM CORES!', 'autor' => 'Dav Pilkey', 'ano' => 2017]
+    ['titulo' => 'Olhos prateados: Five Nights At Freddys 1', 'autor' => 'Scott Cawthon', 'ano' => 2017],
+    ['titulo' => 'Dois mundos, um herói: Uma aventura não oficial de Minecraft', 'autor' => 'RezendeEvil', 'ano' => 2015]
     ];
 
 // Define um método púnlico chamado listarAlunos.
