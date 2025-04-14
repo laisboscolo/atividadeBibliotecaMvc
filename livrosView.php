@@ -11,7 +11,7 @@ function exibirLivros($livros){
     foreach ($livros as $livro ){
         //para cada aluno, imprime um item da lista(li).
         // Exibe o nome do livro, autor e ano de lançamento nessa ordem.
-        echo "<li> {$livro['nome']} de {$livro['autor']} lançado em {$livro['ano']} </li>";
+        echo "<li> {$livro['titulo']} de {$livro['autor']} lançado em {$livro['ano']} </li>";
     }
     echo "</ul>";
 }
